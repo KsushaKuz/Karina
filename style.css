@@ -8,7 +8,7 @@ header{
 
 }
 h1{
-    color: #fed8a6;
+    color: #ebd8c0;
     position: absolute;
     left: 20px;
     top: -20px;
@@ -55,20 +55,23 @@ font-size: 58px;
         }
         .g{
             position: absolute;
-            right: 10px;
-            font-size: 30px;
-            top: 440px;
+            right: 90px;
+            font-size: 20px;
+            top: 450px;
             color: #9f7a57;
             font-family: monospace;
+            left: 525px;
+            text-align: center;
+            width: 300px;
         
         }
         h4{
             position: relative;
             right: 0px;
-            font-size: 50px;
-            top: 90px;
+            font-size: 66px;
+            top: 80px;
             color: #de565c;
-            left: 80%;
+            left: 59%;
             font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
         }
@@ -87,8 +90,113 @@ position: absolute;
 
         }
         body{
-            background-color: #feeeb9;
+            background-color: #e9d7c0;
             font-family: monospace;
             width: 100%;
         }
+        .q{
+          position: absolute;
+            width: 400px;
+            height: 300px;
+            left: 10px;
+            top: 700px;
+            border:#92ada4 17px solid;
+            border-radius: 50px;  
+        }
+        h5{
+          position: relative;
+            right: 0px;
+            font-size: 66px;
+            top: 260px;
+            color: #de565c;
+            left: 65%;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+        }
+        .g2{
+        position: absolute;
+            right: 80px;
+            font-size: 20px;
+            top: 830px;
+            color: #9f7a57;
+            font-family: monospace;
+            left: 525px;
+            text-align: center; 
+            width: 300px;   
+        }
+        .g3{
+        position: absolute;
+            right: 90px;
+            font-size: 20px;
+            top: 1270px;
+            color: #9f7a57;
+            font-family: monospace;
+            left: 525px;
+            text-align: center; 
+            width: 300px;   
+        }
+        .o{
+
+        }
+         h6{
+          position: relative;
+            right: 0px;
+            font-size: 66px;
+            top: 480px;
+            color: #de565c;
+            left: 68%;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+        }
+        .y{
+            position: absolute;
+            width: 400px;
+            height: 300px;
+            left: 10px;
+            top: 1100px;
+            border:#92ada4 17px solid;
+            border-radius: 50px;}
+            .z{
+                position: absolute;
+            right: 90px;
+            font-size: 20px;
+            top: 515px;
+            color: #92ada4;
+            font-family: monospace;
+            left: 525px;
+            text-align: center;
+            width: 300px;
+            bottom: 990px;
+         
+            }
+
+   .u{
+                position: absolute;
+            right: 90px;
+            font-size: 20px;
+            top: 1015px;
+            color: #92ada4;
+            font-family: monospace;
+            left: 525px;
+            text-align: center;
+            width: 300px;
+            bottom: 990px;
+         
+            }
+            .s{
+                position: absolute;
+            right: 90px;
+            font-size: 20px;
+            top: 1335px;
+            color: #92ada4;
+            font-family: monospace;
+            left: 525px;
+            text-align: center;
+            width: 300px;
+            bottom: 990px;
+         
+            }
+
+            a:hover{
+                color: #679183;
+            }
+
         
